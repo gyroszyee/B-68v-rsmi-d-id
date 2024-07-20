@@ -1,0 +1,58 @@
+.gyro-bttn button {
+        display: block;
+        margin: 0px auto 0 auto;
+        padding: 0px;
+        cursor: pointer;
+        background: none rgb(0, 134, 224);
+        border: none;
+        text-align: center;
+        height: 55px;
+        width: 536px;
+        max-width: 95%;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 18px;
+        font-weight: bold;
+        color: rgb(255, 255, 255);
+        letter-spacing: 2px;
+        line-height: 1;
+        border-radius: 20px;
+        box-shadow: rgb(170, 170, 170) 5px 5px 7px 0px;
+        transition: background 200ms ease 0s;
+}
+
+.gyro-teks {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        font-weight: 900;
+        color: #0086e0;
+        letter-spacing: 1px;
+        text-align: center;
+        line-height: 1.5;
+        margin-top: 2vh;
+}
+
+.gyro-teks-w {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        font-weight: 900;
+        color: #0086e0;
+        letter-spacing: 1px;
+        text-align: center;
+        line-height: 1.5;
+        margin-top: 3vh;
+}
+
+.gyro-teks-hr {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        font-weight: 900;
+        color: #0086e0;
+        letter-spacing: 1px;
+        text-align: center;
+        line-height: 1.5;
+        margin-top: 5vh;
+}
+
+.gyrozyee {
+  margin-top: 6vh;
+}
